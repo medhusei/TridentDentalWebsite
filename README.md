@@ -14,3 +14,4 @@ This project was created as part of my self-learning journey to practice buildin
 It includes sections such as Hero, Services, About Us, Contact, and a responsive navigation bar.  
 The focus was on clean design, smooth layout, and user-friendly structure suitable for a dental clinic.
 
+This project is currently in development.
